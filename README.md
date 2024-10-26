@@ -1,0 +1,1 @@
+more static page practicing
